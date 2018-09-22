@@ -4,12 +4,28 @@
   box-sizing: border-box;
 }
 
-body {
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body, wrapper {
   background-image: url(./components/images/bg-img.jpg);
   background-repeat: repeat;
   background-size: cover;
+  min-height: 100vh;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: goldenrod;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 30px;
+  line-height: 30px;
+  color: goldenrod;
+  background-color: #131314;
 }
