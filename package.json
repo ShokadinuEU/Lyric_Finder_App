@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://ShokadinuEU.github.io/Lyric_Finder_App.git",
+  "homepage": "https://ShokadinuEU.github.io/Lyric_Finder_App",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^2.0.0",
