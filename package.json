@@ -2,7 +2,7 @@
   "name": "lyric_finder-react_app",
   "version": "0.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "Index.js",
   "homepage": "https://ShokadinuEU.github.io/Lyric_Finder_App",
   "dependencies": {
     "axios": "^0.18.0",
